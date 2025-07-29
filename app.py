@@ -26,8 +26,8 @@ st.title("Langchain Demo With Gemma Model")
 input_text=st.text_input("What question you have in mind?")
 
 
-## Ollama Llama3 model
-llm=Ollama(model="gemma3")
+## Ollama Llama2 model
+llm=Ollama(model="gemma:2b")
 output_parser=StrOutputParser()
 chain=prompt|llm|output_parser
 
