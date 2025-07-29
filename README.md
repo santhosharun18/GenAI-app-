@@ -23,7 +23,7 @@ This project demonstrates a simple conversational AI application built with Lang
 
 Before you begin, ensure you have the following installed:
 
-* **Python 3.9+**
+* **Python 3.11**
 * **Ollama:** Download and install Ollama from [ollama.com](https://ollama.com/).
 * **Gemma Model:** Pull the `gemma` model using Ollama. Open your terminal and run:
     ```bash
@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/santhosharun18/GenAI-app.git]
     cd your-repo-name
     ```
 
