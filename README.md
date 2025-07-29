@@ -34,13 +34,13 @@ Before you begin, ensure you have the following installed:
   ### 1. Main Application Interface
 
 *(Replace this text with your screenshot)*
-![Screenshot of the main Streamlit application interface](screenshots/main_app_interface.png)
+![Screenshot of the main Streamlit application interface](1.png)
 *A brief description of what this screenshot shows, e.g., "The main input field where users can type their questions."*
 
 ### 2. Example Interaction
 
 *(Replace this text with your screenshot)*
-![Screenshot of an example question and answer](screenshots/example_interaction.png)
+![Screenshot of an example question and answer](2.png)
 *A brief description of what this screenshot shows, e.g., "An example of a user question and the Gemma model's generated response."*
 
 ## Setup and Installation
