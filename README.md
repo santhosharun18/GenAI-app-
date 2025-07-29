@@ -31,6 +31,18 @@ Before you begin, ensure you have the following installed:
     ```
     *(Note: The `app.py` currently specifies `gemma3` which might be a typo or a custom model. Ensure you pull the correct `gemma` model version available on Ollama, e.g., `gemma:2b` or `gemma:7b`). If `gemma3` is a specific custom model, make sure it's available via your Ollama instance.*
 
+  ### 1. Main Application Interface
+
+*(Replace this text with your screenshot)*
+![Screenshot of the main Streamlit application interface](screenshots/main_app_interface.png)
+*A brief description of what this screenshot shows, e.g., "The main input field where users can type their questions."*
+
+### 2. Example Interaction
+
+*(Replace this text with your screenshot)*
+![Screenshot of an example question and answer](screenshots/example_interaction.png)
+*A brief description of what this screenshot shows, e.g., "An example of a user question and the Gemma model's generated response."*
+
 ## Setup and Installation
 
 1.  **Clone the repository:**
